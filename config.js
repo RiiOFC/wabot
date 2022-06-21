@@ -24,7 +24,7 @@ global.Owner = {
   },
   '13479805233': {} // ignore if you don't want anything, like name dll
 }
-global.mods = ['13479805233'] // Want some help?
+global.mods = ['6281247822525'] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -55,8 +55,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'wa.me/6285713964963'
-global.author = 'Metro Bot Is The Best'
+global.packname = 'RiiBot.'
+global.author = ' RiiBot.'
 
 global.multiplier = 39 // The higher, The harder levelup
 
